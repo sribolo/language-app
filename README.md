@@ -56,7 +56,7 @@ A big thank you to the contributors and language enthusiasts!
 
 For questions, feedback, or collaboration, contact the project maintainer:
 
-- Your Name
+- Srinithi Bala
 - Email: srinithibala85@gmil.com
 - Twitter: [@tarjtaejin](https://twitter.com/tarjtaejin)
 
